@@ -12,7 +12,7 @@ Linux distribution is an operating system that is made up of a collection of sof
 * Arch
 * Manjaro
 * Linux Mint
-# CentOS
+* CentOS
 
 ## Architecture of Linux
 Linux architecture has the following components: 
