@@ -48,3 +48,5 @@ Linux architecture has the following components:
 ## Disadvantages of Linux
 * It is not very user-friendly. So, it may be confusing for beginners.
 * It has small peripheral hardware drivers as compared to windows.
+
+ddddddd
