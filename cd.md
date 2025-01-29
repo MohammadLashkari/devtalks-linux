@@ -1,4 +1,4 @@
-# Cd Command kdfjkdfjddddddd
+# Cd Command kdfjkdfj dkfjdkf
 `cd` is a shell built-in command and stands for "changes directory".
 
 You can point to directories in two ways:
