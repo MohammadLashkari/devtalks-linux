@@ -2,18 +2,8 @@ hello from remote
 # Linux OS
 The Linux Operating System is a type of operating system that is similar to Unix, and it is built upon the Linux Kernel. The Linux Kernel is like the brain of the operating system because it manages how the computer interacts with its hardware and resources. It makes sure everything works smoothly and efficiently. But the Linux Kernel alone is not enough to make a complete operating system. To create a full and functional system, the Linux Kernel is combined with a collection of software packages and utilities, which are together called Linux distributions. These distributions make the Linux Operating System ready for users to run their applications and perform tasks on their computers securely and effectively. Linux distributions come in different flavors, each tailored to suit the specific needs and preferences of users.
 
-## What is Linux
-Linux is a powerful and flexible family of operating systems that are free to use and share. It was created by a person named Linus Torvalds in 1991. What’s cool is that anyone can see how the system works because its source code is open for everyone to explore and modify. This openness encourages people from all over the world to work together and make Linux better and better. Since its beginning, Linux has grown into a stable and safe system used in many different things, like computers, smartphones, and big supercomputers. It’s known for being efficient, meaning it can do a lot of tasks quickly, and it’s also cost-effective, which means it doesn’t cost a lot to use. Lots of people love Linux, and they’re part of a big community where they share ideas and help each other out. As technology keeps moving forward, Linux will keep evolving and staying important in the world of computers.
 
-## Linux Distribution
-Linux distribution is an operating system that is made up of a collection of software based on Linux kernel or you can say distribution contains the Linux kernel and supporting libraries and software. And you can get Linux based operating system by downloading one of the Linux distributions and these distributions are available for different types of devices like embedded devices, personal computers, etc. Around 600 + Linux Distributions are available and some of the popular Linux distributions are:
-* Ubuntu
-* Debian
-* Fedora
-* Arch
-* Manjaro
-* Linux Mint
-* CentOS
+fix some bugs
 
 ## Architecture of Linux
 Linux architecture has the following components: 
