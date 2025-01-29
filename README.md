@@ -36,8 +36,6 @@ Linux architecture has the following components:
 * It is fast and easy to install from the web. It can also install it on any hardware even on your old computer system.
 * It performs all tasks properly even if it has limited space on the hard disk.
 
-## Disadvantages of Linux
-* It is not very user-friendly. So, it may be confusing for beginners.
-* It has small peripheral hardware drivers as compared to windows.
+## Disadvantages of Linux bol bol
 
 ddddddd
