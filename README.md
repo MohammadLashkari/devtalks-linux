@@ -5,13 +5,9 @@ The Linux Operating System is a type of operating system that is similar to Unix
 
 fix some bugs
 
-## Architecture of Linux
-Linux architecture has the following components: 
-1. Kernel: Kernel is the core of the Linux based operating system. It virtualizes the common hardware resources of the computer to provide each process with its virtual resources. This makes the process seem as if it is the sole process running on the machine. The kernel is also responsible for preventing and mitigating conflicts between different processes. Different types of the kernel are: 
-* Monolithic Kernel
-* Hybrid kernels
-* Exo kernels
-* Micro kernels
+
+
+hello boss
 
 2. System Library:Linux uses system libraries, also known as shared libraries, to implement various functionalities of the operating system. These libraries contain pre-written code that applications can use to perform specific tasks. By using these libraries, developers can save time and effort, as they don’t need to write the same code repeatedly. System libraries act as an interface between applications and the kernel, providing a standardized and efficient way for applications to interact with the underlying system.
 
