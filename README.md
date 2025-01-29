@@ -33,5 +33,5 @@ hello boss
 * It performs all tasks properly even if it has limited space on the hard disk.
 
 ## Disadvantages of Linux bol bol
-
+* It has small peripheral hardware drivers as compared to windows.
 ddddddd
