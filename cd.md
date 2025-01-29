@@ -2,7 +2,7 @@
 `cd` is a shell built-in command and stands for "changes directory".
 
 You can point to directories in two ways:
-1. **Absolute Paths:** Like /home/devtalks/lpic1/lesson1
+dkfjd1. **Absolute Paths:** Like /home/devtalks/lpic1/lesson1
 2. **Relative Paths:** Like lpic1/lesson1 In this case, we are not adding the / in the beginning so the bash will try to find lpic1 directory where we are (local / relative)
 
 You can check your current working directory with the `pwd` command.
