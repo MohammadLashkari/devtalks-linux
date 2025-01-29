@@ -1,4 +1,4 @@
-hello from remote alice
+from remote alice
 hello from remote bob
 hello from remote alice gogoli
 # Linux OS
